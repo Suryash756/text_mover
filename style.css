@@ -43,9 +43,16 @@ canvas{
     border:5px ridge black;
     border-radius:25px;
     box-shadow: 10px 10px 10px black;
+    margin-top: 20px;;
 }
 img{
     float:left;
     height:50px;
     width:50px;
+}
+input{
+    border:solid;
+    width:200px;
+    font-weight:bold;
+
 }
